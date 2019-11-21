@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="YDialog" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <!-- Base colors -->
+        <item name="android:textColorPrimary">@color/dialog_text</item>
+        <item name="colorControlNormal">@color/dialog_checkbox</item>
+        <item name="colorControlActivated">@color/dialog_checkbox_activated</item>
+        <item name="textColorAlertDialogListItem">@color/dialog_list_item</item>
+    </style>
+
+</resources>

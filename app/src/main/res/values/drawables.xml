@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--  My own! -->
+    <item name="ic_vk" type="drawable">@drawable/ic_vk_24dp</item>
+    <item name="ic_youtube" type="drawable">@drawable/ic_youtube_24dp</item>
+    <item name="ic_about" type="drawable">@drawable/ic_aboutus_24dp</item>
+
+</resources>

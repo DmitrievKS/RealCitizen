@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorSecondary">#FFFFFF</color>
+
+    <color name="card_additional_Color">#808080</color>
+    <color name="colorPrimaryLight">#4db6ac</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="toolbarIconColor">#FFFFFF</color>
+
+    <color name="cardColorBackground">#008577</color>
+
+    <color name="dialog_background">#FFFFFF</color>
+    <color name="dialog_text">#00574B</color>
+    <color name="dialog_buttons_color">#C62828</color>
+    <color name="dialog_checkbox">#00796b</color>
+    <color name="dialog_checkbox_activated">#00796b</color>
+    <color name="dialog_list_item">#00796b</color>
+    <color name="dialog_accent_button">#00796b</color>
+    <color name="dialog_title_color">#00796b</color>
+
+    <color name="actionBarColorPrimary">#FFFFFF</color>
+
+</resources>

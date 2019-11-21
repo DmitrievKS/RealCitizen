@@ -1,0 +1,78 @@
+<resources>
+
+    <!-- test advertising banner id`s -->
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- real advertising banner id`s -->
+    <string name="app_id_real">ca-app-pub-8782791231319278~6115802311</string>
+    <string name="banner_id_real">ca-app-pub-8782791231319278/4326888552</string>
+
+
+    <!-- menu names, ui elements names -->
+    <string name="app_name">Real Citizen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_vk">VK</string>
+    <string name="menu_youtube">YouTube</string>
+    <string name="social_networks_title">Наши блоги</string>>
+
+    <string name="about_application">О приложении:</string>
+    <string name="application_description">Приложение полностью бесплатное и свободно для распространения. По всем вопросам, пожеланиям, идеям добавлений в новые версии, ошибкам - обращаться по электронной почте LLirikNN@gmail.com.</string>
+    <string name="write_mail">Написать письмо</string>
+    <string name="add_mail">mailto:LLirikNN@gmail.com</string>
+    <string name="communicate_with_us">Связаться с нами:</string>
+    <string name="glad_will_see_mail">Пишите нам ваши предложения и пожелания. И в случае если нашли ошибку в работе или содержании приложения. </string>
+    <string name="ok">ОК</string>
+    <string name="real_citizen">Сознательный гражданин</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- contents strings -->
+    <string name="label_constitution">Конституция РФ</string>
+    <string name="label_police">Закон о полиции</string>
+    <string name="label_main">Главная</string>
+
+    <string-array name="constitution_chapters_name">
+        <item>Глава 1. Основы конституционного строя</item>
+        <item>Глава 2. Права и свободы человека и гражданина</item>
+        <item>Глава 3. Федеративное устройство</item>
+        <item>Глава 4. Президент Российской Федерации</item>
+        <item>Глава 5. Федеральное Собрание</item>
+        <item>Глава 6. Правительство Российской Федерации</item>
+        <item>Глава 7. Судебная власть и прокуратура</item>
+        <item>Глава 8. Местное самоуправление</item>
+        <item>Глава 9. Конституционные поправки и пересмотр Конституции</item>
+        <item>Раздел второй. Заключительные и переходные положения</item>
+    </string-array>
+
+    <string-array name="policeOrder_chapters_name">
+        <item>Глава 1. Общие положения</item>
+        <item>Глава 2. Принципы деятельности полиции</item>
+        <item>Глава 3. Обязанности и права полиции</item>
+        <item>Глава 4. Применение полицией отдельных мер государственного принуждения</item>
+        <item>Глава 5. Применение физической силы, специальных средств и огнестрельного оружия</item>
+        <item>Глава 6. Правовое положение сотрудника полиции</item>
+        <item>Глава 7. Служба в полиции</item>
+        <item>Глава 8. Гарантии социальной защиты сотрудника полиции</item>
+        <item>Глава 9. Финансовое и материально-техническое обеспечение деятельности полиции</item>
+        <item>Глава 10. Контроль и надзор за деятельностью полиции</item>
+        <item>Глава 11. Заключительные положения</item>
+    </string-array>
+
+    <!--  links to my resources ad blogs  -->
+    <string name="link_vk_group">https://vk.com/public183465133</string>
+    <string name="link_youtube_chanel">https://www.youtube.com/channel/UChPIdx35tBIMSnumH2fAihQ/videos?view_as=subscriber</string>
+
+
+</resources>
