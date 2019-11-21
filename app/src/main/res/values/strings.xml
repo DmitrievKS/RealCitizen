@@ -5,8 +5,8 @@
     <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
 
     <!-- real advertising banner id`s -->
-    <string name="app_id_real">ca-app-pub-8782791231319278~6115802311</string>
-    <string name="banner_id_real">ca-app-pub-8782791231319278/4326888552</string>
+    <string name="app_id_real">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id_real">ca-app-pub-3940256099942544/6300978111</string>
 
 
     <!-- menu names, ui elements names -->
